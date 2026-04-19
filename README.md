@@ -20,7 +20,7 @@ Since I'm still learning, I kept the setup simple:
 
 1.  **Clone it:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ghost-monitor.git](https://github.com/YOUR_USERNAME/ghost-monitor.git)
+    git clone https://github.com/ayman-kehlaoui/ghost-in-the-machine.git
     ```
 2.  **Install the tools:**
     ```bash
